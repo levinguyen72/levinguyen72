@@ -2,7 +2,7 @@
 - I live in Ha Noi, Vietnam.
 -  I am a seasoned front-end engineer and i am passionate about creating experience-driven products. 
 -  I am proficient in React, Angular, Vue and TypeScript development.
-- I love to learn new things. I'm also passionate about the latest web technologies and always want to apply to the products.
+- I am a lifelong learner.
 - I write code for scalable and maintainable front-end projects (component). Code climate, quality and reaching performance goals is the key focus in my work. Creating cross-device responsive experiences and testing code on a variety of devices is where I am specialized in.
 
 <br/>
