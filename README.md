@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hoa Nguyen.
+# Hi there 👋, I'm Levi Nguyen.
 - I live in Ha Noi, Vietnam.
 -  I am a seasoned front-end engineer and i am passionate about creating experience-driven products. 
 -  I am proficient in React, Angular, Vue and TypeScript development.
