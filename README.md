@@ -10,7 +10,7 @@
 </p>
 <h3>Frameworks & Technologies</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,vue,flask,express,graphql,docker,aws&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,vue,graphql,docker,aws&perline=9" />
 </p>
 
 
